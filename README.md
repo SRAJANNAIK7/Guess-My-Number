@@ -23,5 +23,4 @@ Use the "Reset Game" button to start a new game.
 # Purpose:
 This project serves as a simple demonstration of basic JavaScript programming concepts, including user input handling, conditional statements, and DOM manipulation. It's suitable for beginners looking to practice their JavaScript skills or anyone interested in creating and playing simple browser-based games.
 
-# Preview:
 
